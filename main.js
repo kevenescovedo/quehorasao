@@ -1,0 +1,1 @@
+var relogio = new Relogio();
